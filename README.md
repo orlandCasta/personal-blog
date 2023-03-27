@@ -20,6 +20,7 @@
 
 <div align="center">
   <h3 align="center">MI BLOG</h3>
+  https://orlandcasta.github.io/personal-blog/index.html
 </div>
 
 <!-- ABOUT THE PROJECT -->
